@@ -1,2 +1,2 @@
 # Note-App
-https://akbiplobs.github.io/Note-App/
+https://akbiplobx.github.io/Note-App/
